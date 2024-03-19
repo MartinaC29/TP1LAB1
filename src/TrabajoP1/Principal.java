@@ -11,5 +11,13 @@ public class Principal {
         System.out.println("Esto es una prueba, escriba algo");
         String leer = teclado.nextLine();
         
+        
+      
+        
+        
+        
+        
+        
+        
     }
 }
